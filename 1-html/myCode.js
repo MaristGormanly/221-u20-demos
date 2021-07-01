@@ -1,3 +1,6 @@
-alert("Hello JavaScript!");
+//alert("Hello Brian!");
 
-console.log("Hello JavaScript Log!");
+for(let i=0; i<10; i++) {
+    console.log("Hello " + i);
+}
+
